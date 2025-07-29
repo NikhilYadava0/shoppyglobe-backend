@@ -25,5 +25,8 @@
 
 ## 🧪 API Testing Screenshots
 All testing screenshots are available in the `/screenshots` folder, including Thunder Client and MongoDB Compass views.
+## 📎 Project Repository Link
+
+🔗 [Click here to view this project on GitHub](https://github.com/NikhilYadava0/shoppyglobe-backend)
 
 
